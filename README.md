@@ -3,10 +3,14 @@ Conteúdos sobre Segurança em Containers de apresentação realizada durante a 
 
 Exemplos (clique nos links a seguir para acessar os repositórios correspondentes às demos):
 - [**Pipeline do Azure DevOps com execução do Docker Scout via container**](https://github.com/renatogroffe/AzureDevOps-DockerScout_Container-DotNet6)
+- [**Pipeline do Azure DevOps com execução do Docker Scout via CLI**]()
+- [**Workflow do GitHub Actions com execução do Docker Scout via CLI**]()
 - [**x**]()
 - [**x**]()
 - [**x**]()
-
+- [**x**]()
+- [**x**]()
+- [**x**]()
 ---
 
 Título da apresentação: **Segurança em Containers: boas práticas, ferramentas, pontos de atenção...**
@@ -38,5 +42,7 @@ Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por t
 ![Renato palestrando 4](img/s-03.png)
 
 ![Banner](img/banner.jpg)
+
+![Divulgação LinkedIn](img/linkedin.png)
 
 Outros prints podem ser encontrados neste [**diretório**](/img/).
