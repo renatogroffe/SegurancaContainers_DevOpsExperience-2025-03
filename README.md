@@ -13,5 +13,12 @@ Ferramenta de transmissão: **Zoom**
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Terraform, Azure DevOps, GitHub Actions, Azure Kubernetes Service, kind, Linux, Docker Scout, KICS, Checkov...**
 
+Número de participantes: **114 pessoas (pico de audiência ao longo da live)**
 
+Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_devopsexperience-devopsheroes-cloud-activity-7299839683763576834-K5tF/)
 
+---
+
+![Audiência](img/audiencia.png)
+
+![Renato palestrando 1](img/s-06.png)
