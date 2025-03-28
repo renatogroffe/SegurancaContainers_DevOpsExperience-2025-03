@@ -1,6 +1,12 @@
 # SegurancaContainers_DevOpsExperience-2025-03
 Conteúdos sobre Segurança em Containers de apresentação realizada durante a edição de Março-2025 do DevOps Experience.
 
+Exemplos (clique nos links a seguir para acessar os repositórios correspondentes às demos):
+- [**Pipeline do Azure DevOps com execução do Docker Scout via container**](https://github.com/renatogroffe/AzureDevOps-DockerScout_Container-DotNet6)
+- [**x**]()
+- [**x**]()
+- [**x**]()
+
 ---
 
 Título da apresentação: **Segurança em Containers: boas práticas, ferramentas, pontos de atenção...**
@@ -15,7 +21,7 @@ Tecnologias e tópicos abordados: **Docker, Kubernetes, Terraform, Azure DevOps,
 
 Número de participantes: **114 pessoas (pico de audiência ao longo da live)**
 
-Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_devopsexperience-devopsheroes-cloud-activity-7299839683763576834-K5tF/)
+Link do evento: [**LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:7310757120990179329/)
 
 ---
 
@@ -25,6 +31,10 @@ Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_devop
 
 ![Renato palestrando 2](img/s-01.png)
 
-![Renato palestrando 2](img/s-02.png)
+![Renato palestrando 3](img/s-02.png)
 
-![Renato palestrando 2](img/s-03.png)
+![Renato palestrando 4](img/s-03.png)
+
+![Banner](img/banner.jpg)
+
+Outros prints podem ser encontrados neste [**diretório**](/img/).
