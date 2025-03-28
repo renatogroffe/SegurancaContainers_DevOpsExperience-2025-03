@@ -22,3 +22,9 @@ Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_devop
 ![Audiência](img/audiencia.png)
 
 ![Renato palestrando 1](img/s-06.png)
+
+![Renato palestrando 2](img/s-01.png)
+
+![Renato palestrando 2](img/s-02.png)
+
+![Renato palestrando 2](img/s-03.png)
