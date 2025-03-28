@@ -13,3 +13,5 @@ Ferramenta de transmissão: **Zoom**
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Terraform, Azure DevOps, GitHub Actions, Azure Kubernetes Service, kind, Linux, Docker Scout, KICS, Checkov...**
 
+
+
