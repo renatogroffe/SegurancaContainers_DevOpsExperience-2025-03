@@ -23,6 +23,8 @@ Número de participantes: **114 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: [**LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:7310757120990179329/)
 
+Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DevOps Experience**.
+
 ---
 
 ![Audiência](img/audiencia.png)
