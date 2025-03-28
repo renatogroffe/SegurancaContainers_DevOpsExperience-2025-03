@@ -1,16 +1,17 @@
 # SegurancaContainers_DevOpsExperience-2025-03
 Conteúdos sobre Segurança em Containers de apresentação realizada durante a edição de Março-2025 do DevOps Experience.
 
-Exemplos (clique nos links a seguir para acessar os repositórios correspondentes às demos):
+Exemplos - clique nos links a seguir para acessar os repositórios correspondentes às demos:
 - [**Pipeline do Azure DevOps com execução do Docker Scout via container**](https://github.com/renatogroffe/AzureDevOps-DockerScout_Container-DotNet6)
-- [**Pipeline do Azure DevOps com execução do Docker Scout via CLI**]()
-- [**Workflow do GitHub Actions com execução do Docker Scout via CLI**]()
+- [**Pipeline do Azure DevOps com execução do Docker Scout via CLI**](https://github.com/renatogroffe/AzureDevOps-DockerScout-DotNet6)
+- [**Workflow do GitHub Actions com execução do Docker Scout via CLI**](https://github.com/renatogroffe/GitHubActions-DockerScout-DotNet6)
+- [**Pipeline do Azure DevOps com execução do Checkov para análise de arquivos Dockerfile**](https://github.com/renatogroffe/AzureDevOps-Checkov-Dockerfile)
+- [**Pipeline do Azure DevOps com execução do Checkov para análise de arquivos YAML do Kubernetes**](https://github.com/renatogroffe/AzureDevOps-Checkov-YAML_Kubernetes)
 - [**x**]()
 - [**x**]()
 - [**x**]()
 - [**x**]()
-- [**x**]()
-- [**x**]()
+
 ---
 
 Título da apresentação: **Segurança em Containers: boas práticas, ferramentas, pontos de atenção...**
